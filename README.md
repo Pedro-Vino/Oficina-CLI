@@ -69,7 +69,7 @@ Siga os passos abaixo para configurar e executar o sistema em seu ambiente local
 ### 1. Clonar o Repositório
 
 ```bash
-git clone <https://github.com/Ramos-d3v/cli-oficina-mecanica>
+git clone <https://github.com/Pedro-Vino/Oficina-CLI>
 cd cli-oficina-mecanica
 ```
 
